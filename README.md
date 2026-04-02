@@ -5,7 +5,7 @@
 <h3> Junior full-stack web app dev, open source enthusiast, and SDET explorer by ambition. I build things, break things (on purpose), and share things. Full-stack dev growing into SDET. </h3>
 </div>
 
-- 🔭 I’m currently building a Playwright test automation suite - full POM architecture, CI/CD via GitHub Actions, and real defect documentation.
+- 🔭 I’m currently building a <a href="https://github.com/madelynmlocke/playwright-qa-automation">Playwright test automation suite</a> - full POM architecture, CI/CD via GitHub Actions, and real defect documentation.
 - 🌱 I’m currently learning security testing concepts like XSS input validation.
 - 💬 Ask me about Playwright / Javascript / ASP.NET Core 
 - ⚡ Fun fact: I am a regular skydiver!

@@ -8,7 +8,7 @@
 - 🔭 I’m currently building a <a href="https://github.com/madelynmlocke/playwright-qa-automation">Playwright test automation suite</a> - full POM architecture, CI/CD via GitHub Actions, and real defect documentation.
 - 🌱 I’m currently learning security testing concepts like XSS input validation.
 - 💬 Ask me about Playwright / Javascript / ASP.NET Core 
-- ⚡ Fun fact: I am a regular skydiver!
+- ⚡ Fun fact: I am a regular skydiver and I like to DJ!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
